@@ -16,11 +16,6 @@ evidently==0.2.8
 dill
 PyYAML
 neuro_mf
-boto3
-bootcore
-mypy-boto3-s3
 fastapi
 uvicorn
-jinja2
-python-multiport
 -e .
